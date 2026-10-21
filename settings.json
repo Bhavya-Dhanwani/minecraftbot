@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "velleloog.aternos.me:35261",
+    "ip": "velleloog.aternos.me",
     "port": 35261,
     "version": "",
     "try-creative": false
